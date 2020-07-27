@@ -1,0 +1,694 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.10.23)  11 APR 2019 11:28
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2016/02/01>
+Babel <3.9q> and hyphenation patterns for 3 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2016/02/24 3.9q The Babel package
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2012/08/20 v3.3p English support from the babel system
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2016/02/24 3.9q Babel common definitions
+\babel@savecnt=\count87
+\U@D=\dimen103
+)
+\l@british = a dialect from \language\l@english 
+\l@UKenglish = a dialect from \language\l@english 
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+(/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip43
+\bibsep=\skip44
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count88
+)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/utf8x.def
+File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
+))
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/ucs.sty
+Package: ucs 2013/05/11 v2.2 UCS: Unicode input support
+
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-global.def
+File: uni-global.def 2013/05/13 UCS: Unicode global data
+)
+\uc@secondtry=\count89
+\uc@combtoks=\toks16
+\uc@combtoksb=\toks17
+\uc@temptokena=\toks18
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/03/03 v2.15a AMS math features
+\@mathmargin=\skip45
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen104
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen105
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count90
+LaTeX Info: Redefining \frac on input line 199.
+\uproot@=\count91
+\leftroot@=\count92
+LaTeX Info: Redefining \overline on input line 297.
+\classnum@=\count93
+\DOTSCASE@=\count94
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen106
+LaTeX Font Info:    Redeclaring font encoding OML on input line 630.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 631.
+\macc@depth=\count95
+\c@MaxMatrixCols=\count96
+\dotsspace@=\muskip11
+\c@parentequation=\count97
+\dspbrk@lvl=\count98
+\tag@help=\toks20
+\row@=\count99
+\column@=\count100
+\maxfields@=\count101
+\andhelp@=\toks21
+\eqnshift@=\dimen107
+\alignsep@=\dimen108
+\tagshift@=\dimen109
+\tagwidth@=\dimen110
+\totwidth@=\dimen111
+\lineht@=\dimen112
+\@envbody=\toks22
+\multlinegap=\skip46
+\multlinetaggap=\skip47
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2735.
+LaTeX Info: Redefining \] on input line 2736.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks24
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/01/03 v1.0q Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 95.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count102
+))
+\Gin@req@height=\dimen113
+\Gin@req@width=\dimen114
+)
+(/usr/share/texlive/texmf-dist/tex/latex/parskip/parskip.sty
+Package: parskip 2001/04/09 non-zero parskip adjustments
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip48
+\f@ncyO@elh=\skip49
+\f@ncyO@erh=\skip50
+\f@ncyO@olh=\skip51
+\f@ncyO@orh=\skip52
+\f@ncyO@elf=\skip53
+\f@ncyO@erf=\skip54
+\f@ncyO@olf=\skip55
+\f@ncyO@orf=\skip56
+)
+(/usr/share/texlive/texmf-dist/tex/latex/vmargin/vmargin.sty
+Package: vmargin 2004/07/15 V2.5 set document margins (VK)
+
+Package: vmargin 2004/07/15 V2.5 set document margins (VK)
+\PaperWidth=\dimen115
+\PaperHeight=\dimen116
+) (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/wasysym/wasysym.sty
+Package: wasysym 2003/10/30 v2.0 Wasy-2 symbol support package
+\symwasy=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `wasy' in version `bold'
+(Font)                  U/wasy/m/n --> U/wasy/b/n on input line 90.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/comment/comment.sty
+\CommentStream=\write3
+
+Excluding comment 'comment') Excluding 'comment' comment. (./main.aux
+
+LaTeX Warning: Label `tab:widgets' multiply defined.
+
+
+LaTeX Warning: Label `tab:widgets' multiply defined.
+
+)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+ (/usr/share/texlive/texmf-dist/tex/latex/ucs/ucsencs.def
+File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
+)
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count103
+\scratchdimen=\dimen117
+\scratchbox=\box28
+\nofMPsegments=\count104
+\nofMParguments=\count105
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count106
+\MPscratchDim=\dimen118
+\MPnumerator=\count107
+\makeMPintoPDFobject=\count108
+\everyMPtoPDFconversion=\toks26
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+<IIT_B_Logo.jpg, id=1, 229.85875pt x 220.825pt>
+File: IIT_B_Logo.jpg Graphic file (type jpg)
+ <use IIT_B_Logo.jpg>
+Package pdftex.def Info: IIT_B_Logo.jpg used on input line 53.
+(pdftex.def)             Requested size: 149.4064pt x 143.53453pt.
+LaTeX Font Info:    Try loading font information for U+msa on input line 66.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 66.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for U+wasy on input line 66.
+
+(/usr/share/texlive/texmf-dist/tex/latex/wasysym/uwasy.fd
+File: uwasy.fd 2003/10/30 v2.0 Wasy-2 symbol font definitions
+) [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./IIT_B_Logo.jpg>] (./main
+.toc)
+\tf@toc=\write4
+\openout4 = `main.toc'.
+
+ [1]
+Underfull \hbox (badness 10000) in paragraph at lines 96--103
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--103
+
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 104.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 104.
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--116
+
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 161--162
+
+ []
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 164--166
+
+ []
+
+[4] <RootPlot.jpg, id=32, 572.1375pt x 451.6875pt>
+File: RootPlot.jpg Graphic file (type jpg)
+ <use RootPlot.jpg>
+Package pdftex.def Info: RootPlot.jpg used on input line 219.
+(pdftex.def)             Requested size: 400.49352pt x 316.17908pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (15.05064pt too wide) detected at line 257
+[]
+ []
+
+[5] [6 <./RootPlot.jpg>]
+Overfull \hbox (41.35695pt too wide) detected at line 267
+[]
+ []
+
+<matlab_filter1.jpg, id=41, 572.1375pt x 451.6875pt>
+File: matlab_filter1.jpg Graphic file (type jpg)
+ <use matlab_filter1.jpg>
+Package pdftex.def Info: matlab_filter1.jpg used on input line 270.
+(pdftex.def)             Requested size: 410.2334pt x 323.87076pt.
+
+[7 <./matlab_filter1.jpg>]
+<Chebyshev_DirectForm_2.png, id=45, 621.32124pt x 669.50125pt>
+File: Chebyshev_DirectForm_2.png Graphic file (type png)
+
+<use Chebyshev_DirectForm_2.png>
+Package pdftex.def Info: Chebyshev_DirectForm_2.png used on input line 279.
+(pdftex.def)             Requested size: 512.78981pt x 552.55988pt.
+ [8 <./Chebyshev_DirectForm_2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 302--305
+
+ []
+
+[9] <1firt.png, id=54, 1239.63126pt x 614.295pt>
+File: 1firt.png Graphic file (type png)
+ <use 1firt.png>
+Package pdftex.def Info: 1firt.png used on input line 308.
+(pdftex.def)             Requested size: 512.78981pt x 254.10281pt.
+
+<1fir.jpg, id=55, 562.1pt x 421.575pt>
+File: 1fir.jpg Graphic file (type jpg)
+ <use 1fir.jpg>
+Package pdftex.def Info: 1fir.jpg used on input line 313.
+(pdftex.def)             Requested size: 410.2334pt x 307.67642pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[10 <./1firt.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 323--330
+
+ []
+
+[11 <./1fir.jpg>]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[12]
+Underfull \hbox (badness 10000) in paragraph at lines 387--388
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 390--392
+
+ []
+
+[13] <RootPlot2.jpg, id=69, 562.1pt x 421.575pt>
+File: RootPlot2.jpg Graphic file (type jpg)
+ <use RootPlot2.jpg>
+Package pdftex.def Info: RootPlot2.jpg used on input line 456.
+(pdftex.def)             Requested size: 393.46732pt x 295.10048pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[14] [15 <./RootPlot2.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 485--488
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 496--498
+
+ []
+
+[16] Excluding 'comment' comment. [17] Excluding 'comment' comment.
+<matlab_filter2.jpg, id=82, 572.1375pt x 451.6875pt>
+File: matlab_filter2.jpg Graphic file (type jpg)
+ <use matlab_filter2.jpg>
+Package pdftex.def Info: matlab_filter2.jpg used on input line 616.
+(pdftex.def)             Requested size: 410.2334pt x 323.87076pt.
+
+[18 <./matlab_filter2.jpg>]
+<Butterworth_DirectForm_2.png, id=87, 579.16376pt x 712.6625pt>
+File: Butterworth_DirectForm_2.png Graphic file (type png)
+
+<use Butterworth_DirectForm_2.png>
+Package pdftex.def Info: Butterworth_DirectForm_2.png used on input line 625.
+(pdftex.def)             Requested size: 347.50093pt x 427.6008pt.
+ [19 <./Butterworth_DirectForm_2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 648--651
+
+ []
+
+[20] <2firt.png, id=95, 1240.635pt x 496.85625pt>
+File: 2firt.png Graphic file (type png)
+ <use 2firt.png>
+Package pdftex.def Info: 2firt.png used on input line 654.
+(pdftex.def)             Requested size: 512.78981pt x 205.36511pt.
+
+<2fir.jpg, id=96, 572.1375pt x 451.6875pt>
+File: 2fir.jpg Graphic file (type jpg)
+ <use 2fir.jpg>
+Package pdftex.def Info: 2fir.jpg used on input line 660.
+(pdftex.def)             Requested size: 410.2334pt x 323.87076pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[21 <./2firt.png>] <1fil.jpg, id=100, 572.1375pt x 451.6875pt>
+File: 1fil.jpg Graphic file (type jpg)
+ <use 1fil.jpg>
+Package pdftex.def Info: 1fil.jpg used on input line 672.
+(pdftex.def)             Requested size: 256.3949pt x 202.41664pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<1filb.jpg, id=101, 572.1375pt x 451.6875pt>
+File: 1filb.jpg Graphic file (type jpg)
+ <use 1filb.jpg>
+Package pdftex.def Info: 1filb.jpg used on input line 678.
+(pdftex.def)             Requested size: 256.3949pt x 202.41664pt.
+
+<1filp.jpg, id=102, 572.1375pt x 451.6875pt>
+File: 1filp.jpg Graphic file (type jpg)
+ <use 1filp.jpg>
+Package pdftex.def Info: 1filp.jpg used on input line 684.
+(pdftex.def)             Requested size: 256.3949pt x 202.41664pt.
+
+<1pb1.jpg, id=103, 572.1375pt x 451.6875pt>
+File: 1pb1.jpg Graphic file (type jpg)
+ <use 1pb1.jpg>
+Package pdftex.def Info: 1pb1.jpg used on input line 689.
+(pdftex.def)             Requested size: 256.3949pt x 202.41664pt.
+
+<1pb2.jpg, id=104, 572.1375pt x 451.6875pt>
+File: 1pb2.jpg Graphic file (type jpg)
+ <use 1pb2.jpg>
+Package pdftex.def Info: 1pb2.jpg used on input line 694.
+(pdftex.def)             Requested size: 256.3949pt x 202.41664pt.
+
+<1ph.jpg, id=105, 572.1375pt x 451.6875pt>
+File: 1ph.jpg Graphic file (type jpg)
+ <use 1ph.jpg>
+Package pdftex.def Info: 1ph.jpg used on input line 699.
+(pdftex.def)             Requested size: 256.3949pt x 202.41664pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[22 <./2fir.jpg>] <1pz.jpg, id=109, 572.1375pt x 451.6875pt>
+File: 1pz.jpg Graphic file (type jpg)
+ <use 1pz.jpg>
+Package pdftex.def Info: 1pz.jpg used on input line 706.
+(pdftex.def)             Requested size: 256.3949pt x 202.41664pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[23 <./1fil.jpg> <./1filb.jpg>] [24 <./1filp.jpg> <./1pb1.jpg>]
+<1firm.jpg, id=117, 562.1pt x 421.575pt>
+File: 1firm.jpg Graphic file (type jpg)
+ <use 1firm.jpg>
+Package pdftex.def Info: 1firm.jpg used on input line 715.
+(pdftex.def)             Requested size: 307.677pt x 230.7541pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<1firc.jpg, id=118, 572.1375pt x 451.6875pt>
+File: 1firc.jpg Graphic file (type jpg)
+ <use 1firc.jpg>
+Package pdftex.def Info: 1firc.jpg used on input line 721.
+(pdftex.def)             Requested size: 256.3949pt x 202.41664pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[25 <./1pb2.jpg> <./1ph.jpg>] <1firb.jpg, id=122, 572.1375pt x 451.6875pt>
+File: 1firb.jpg Graphic file (type jpg)
+
+<use 1firb.jpg>
+Package pdftex.def Info: 1firb.jpg used on input line 727.
+(pdftex.def)             Requested size: 307.677pt x 242.90135pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<1firsb1.jpg, id=123, 572.1375pt x 451.6875pt>
+File: 1firsb1.jpg Graphic file (type jpg)
+ <use 1firsb1.jpg>
+Package pdftex.def Info: 1firsb1.jpg used on input line 733.
+(pdftex.def)             Requested size: 256.3949pt x 202.41664pt.
+
+<1firsb2.jpg, id=124, 572.1375pt x 451.6875pt>
+File: 1firsb2.jpg Graphic file (type jpg)
+ <use 1firsb2.jpg>
+Package pdftex.def Info: 1firsb2.jpg used on input line 738.
+(pdftex.def)             Requested size: 256.3949pt x 202.41664pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[26 <./1pz.jpg> <./1firm.jpg>] [27 <./1firc.jpg> <./1firb.jpg>] [28 <./1firsb1.
+jpg> <./1firsb2.jpg>] <2fil.jpg, id=134, 572.1375pt x 451.6875pt>
+File: 2fil.jpg Graphic file (type jpg)
+
+<use 2fil.jpg>
+Package pdftex.def Info: 2fil.jpg used on input line 747.
+(pdftex.def)             Requested size: 256.3949pt x 202.41664pt.
+ <2filb.jpg, id=135, 572.1375pt x 451.6875pt>
+File: 2filb.jpg Graphic file (type jpg)
+ <use 2filb.jpg>
+Package pdftex.def Info: 2filb.jpg used on input line 753.
+(pdftex.def)             Requested size: 256.3949pt x 202.41664pt.
+
+<2filp.jpg, id=136, 572.1375pt x 451.6875pt>
+File: 2filp.jpg Graphic file (type jpg)
+ <use 2filp.jpg>
+Package pdftex.def Info: 2filp.jpg used on input line 759.
+(pdftex.def)             Requested size: 256.3949pt x 202.41664pt.
+
+<2pb1.jpg, id=137, 572.1375pt x 451.6875pt>
+File: 2pb1.jpg Graphic file (type jpg)
+ <use 2pb1.jpg>
+Package pdftex.def Info: 2pb1.jpg used on input line 764.
+(pdftex.def)             Requested size: 256.3949pt x 202.41664pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[29
+
+ <./2fil.jpg> <./2filb.jpg>] [30 <./2filp.jpg> <./2pb1.jpg>]
+<2pb2.jpg, id=145, 572.1375pt x 451.6875pt>
+File: 2pb2.jpg Graphic file (type jpg)
+ <use 2pb2.jpg>
+Package pdftex.def Info: 2pb2.jpg used on input line 770.
+(pdftex.def)             Requested size: 256.3949pt x 202.41664pt.
+
+<2sb2.jpg, id=146, 572.1375pt x 451.6875pt>
+File: 2sb2.jpg Graphic file (type jpg)
+ <use 2sb2.jpg>
+Package pdftex.def Info: 2sb2.jpg used on input line 775.
+(pdftex.def)             Requested size: 256.3949pt x 202.41664pt.
+ [31
+
+ <./2pb2.jpg> <./2sb2.jpg>] <2ph.jpg, id=150, 572.1375pt x 451.6875pt>
+File: 2ph.jpg Graphic file (type jpg)
+ <use 2ph.jpg>
+Package pdftex.def Info: 2ph.jpg used on input line 781.
+(pdftex.def)             Requested size: 256.3949pt x 202.41664pt.
+
+<2pz.jpg, id=151, 572.1375pt x 451.6875pt>
+File: 2pz.jpg Graphic file (type jpg)
+ <use 2pz.jpg>
+Package pdftex.def Info: 2pz.jpg used on input line 788.
+(pdftex.def)             Requested size: 256.3949pt x 202.41664pt.
+ [32
+
+ <./2ph.jpg> <./2pz.jpg>] <2firm.jpg, id=155, 572.1375pt x 451.6875pt>
+File: 2firm.jpg Graphic file (type jpg)
+ <use 2firm.jpg>
+Package pdftex.def Info: 2firm.jpg used on input line 794.
+(pdftex.def)             Requested size: 307.677pt x 242.90135pt.
+
+<2firc.jpg, id=156, 572.1375pt x 451.6875pt>
+File: 2firc.jpg Graphic file (type jpg)
+ <use 2firc.jpg>
+Package pdftex.def Info: 2firc.jpg used on input line 800.
+(pdftex.def)             Requested size: 256.3949pt x 202.41664pt.
+ [33 <./2firm.jpg> <./2firc.jpg>] <2firb.jpg, id=160, 572.1375pt x 451.6875pt>
+File: 2firb.jpg Graphic file (type jpg)
+ <use 2firb.jpg>
+Package pdftex.def Info: 2firb.jpg used on input line 806.
+(pdftex.def)             Requested size: 307.677pt x 242.90135pt.
+
+<2firpb2.jpg, id=161, 572.1375pt x 451.6875pt>
+File: 2firpb2.jpg Graphic file (type jpg)
+ <use 2firpb2.jpg>
+Package pdftex.def Info: 2firpb2.jpg used on input line 812.
+(pdftex.def)             Requested size: 256.3949pt x 202.41664pt.
+ [34 <./2firb.jpg> <./2firpb2.jpg>] (./main.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 4084 strings out of 494953
+ 54039 string characters out of 6180976
+ 128970 words of memory out of 5000000
+ 7238 multiletter control sequences out of 15000+600000
+ 13307 words of font info for 49 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 38i,12n,43p,406b,250s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/t
+exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.
+pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></
+usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on main.pdf (35 pages, 981783 bytes).
+PDF statistics:
+ 211 PDF objects out of 1000 (max. 8388607)
+ 121 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 176 words of extra memory for PDF output out of 10000 (max. 10000000)
+

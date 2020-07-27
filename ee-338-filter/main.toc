@@ -1,0 +1,31 @@
+\select@language {english}
+\contentsline {section}{\numberline {1}Student Details}{2}
+\contentsline {section}{\numberline {2}Filter-1(Bandpass) Details}{2}
+\contentsline {subsection}{\numberline {2.1}Un-normalized Discrete Time Filter Specifications}{2}
+\contentsline {subsection}{\numberline {2.2}Normalized Digital Filter Specifications}{2}
+\contentsline {subsection}{\numberline {2.3}Analog filter specifications for Band-pass analog filter using Bilinear Transformation}{3}
+\contentsline {subsection}{\numberline {2.4}Frequency Transformation \& Relevant Parameters}{4}
+\contentsline {subsection}{\numberline {2.5}Frequency Transformed Lowpass Analog Filter Specifications}{4}
+\contentsline {subsection}{\numberline {2.6}Analog Lowpass Transfer Function}{4}
+\contentsline {subsection}{\numberline {2.7}Analog Bandpass Transfer Function}{6}
+\contentsline {subsection}{\numberline {2.8}Discrete Time Filter Transfer Function}{7}
+\contentsline {subsection}{\numberline {2.9}Realization using Direct Form II}{8}
+\contentsline {subsection}{\numberline {2.10}FIR Filter Transfer Function using Kaiser Window}{9}
+\contentsline {section}{\numberline {3}Filter-2(Bandstop) Details}{11}
+\contentsline {subsection}{\numberline {3.1}Un-normalized Discrete Time Filter Specifications}{11}
+\contentsline {subsection}{\numberline {3.2}Normalized Digital Filter Specifications}{12}
+\contentsline {subsection}{\numberline {3.3}Analog filter specifications for Band-stop analog filter using Bilinear Transformation}{12}
+\contentsline {subsection}{\numberline {3.4}Frequency Transformation \& Relevant Parameters}{13}
+\contentsline {subsection}{\numberline {3.5}Frequency Transformed Lowpass Analog Filter Specifications}{13}
+\contentsline {subsection}{\numberline {3.6}Analog Lowpass Transfer Function}{14}
+\contentsline {subsection}{\numberline {3.7}Analog Bandstop Transfer Function}{16}
+\contentsline {subsection}{\numberline {3.8}Discrete Time Filter Transfer Function}{17}
+\contentsline {subsection}{\numberline {3.9}Realization using Direct Form II}{19}
+\contentsline {subsection}{\numberline {3.10}FIR Filter Transfer Function using Kaiser Window}{20}
+\contentsline {section}{\numberline {4}MATLAB Plots}{22}
+\contentsline {subsection}{\numberline {4.1}Filter 1 - Bandpass}{22}
+\contentsline {subsubsection}{\numberline {4.1.1}IIR Filter}{22}
+\contentsline {subsubsection}{\numberline {4.1.2}FIR Filter}{25}
+\contentsline {subsection}{\numberline {4.2}Filter 2 - Bandstop}{29}
+\contentsline {subsubsection}{\numberline {4.2.1}IIR Filter}{29}
+\contentsline {subsubsection}{\numberline {4.2.2}FIR Filter}{33}
